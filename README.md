@@ -1,7 +1,7 @@
 # EXT:versatile_crawler
 
 Versatile Crawler is basically an extension to crawl pages and content in an TYPO3 CMS installation.
-It is developed on the basis of TYPO3 CMS version 8. The extension has a clear and easily understandable
+It is developed on the basis of TYPO3 CMS version 9. The extension has a clear and easily understandable
 structure and provides queue and crawler functions for pages and records.
 
 ## Installation & Setup
@@ -13,7 +13,7 @@ TYPO3 CMS' scheduler.
 
 ### Prerequisites
 
-* TYPO3 CMS 8
+* TYPO3 CMS 9
 * PHP 7 w/ cURL
 
 ## Documentation
